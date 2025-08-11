@@ -61,6 +61,7 @@ git clone https://github.com/yourusername/sidebar-navigation.git
 
 
 Open miniprojectcss.html in your browser to see the design in action.
+file:///C:/Users/HP/OneDrive/Desktop/Python/HTML/miniprojectcss.html
 
 📷 Preview
 
