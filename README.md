@@ -57,10 +57,12 @@ Copy
 Edit
 git clone https://github.com/yourusername/sidebar-navigation.git
 
-<img width="1920" height="1200" alt="Screenshot 2025-08-12 000651" src="https://github.com/user-attachments/assets/7632238f-7f68-46c3-9c1e-71ba2b580d1a" />
 
 
 
 Open miniprojectcss.html in your browser to see the design in action.
 
 📷 Preview
+
+<img width="1920" height="1200" alt="Screenshot 2025-08-12 000651" src="https://github.com/user-attachments/assets/7632238f-7f68-46c3-9c1e-71ba2b580d1a" />
+
